@@ -13,4 +13,5 @@ end
 def pop_with_args(array)
   newarray = []
   newarray[0] = array.pop
+  newarray[1]
   
